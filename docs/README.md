@@ -6,10 +6,10 @@
 
 | Component | Link | 
 |-----------|------|
-| **GitHub Repository** | [https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name) | 
-| **GitHub Pages (docs/)** | [https://your-username.github.io/your-repo-name/](https://your-username.github.io/your-repo-name/) | 
-| **Dev Server (Render)** | [https://midterm-exam-n8uu.onrender.com/](Render) | 
-| **Production Server (GCP)** | [http://http://34.57.1.36/:3000](External IP) | 
+| **GitHub Repository** | [https://github.com/jaxn-harvey/midterm-exam](https://github.com/jaxn-harvey/midterm-exam) | 
+| **GitHub Pages (docs/)** | [https://jaxn-harvey.github.io/midterm-exam/](https://jaxn-harvey.github.io/midterm-exam/) | 
+| **Dev Server (Render)** | [https://midterm-exam-n8uu.onrender.com/](https://midterm-exam-n8uu.onrender.com/) | 
+| **Production Server (GCP)** | [http://http://34.57.1.36/:3000](http://http://34.57.1.36/:3000) | 
 | **Issue** | [https://github.com/your-username/your-repo-name/issues/1](https://github.com/your-username/your-repo-name/issues/1) | 
 | **Pull Request** | [https://github.com/your-username/your-repo-name/pull/1](https://github.com/your-username/your-repo-name/pull/1) | 
 | **Milestone** | [https://github.com/your-username/your-repo-name/milestone/1](https://github.com/your-username/your-repo-name/milestone/1) | 
