@@ -9,7 +9,7 @@
 | **GitHub Repository** | [https://github.com/jaxn-harvey/midterm-exam](https://github.com/jaxn-harvey/midterm-exam) | 
 | **GitHub Pages (docs/)** | [https://jaxn-harvey.github.io/midterm-exam/](https://jaxn-harvey.github.io/midterm-exam/) | 
 | **Dev Server (Render)** | [https://midterm-exam-n8uu.onrender.com/](https://midterm-exam-n8uu.onrender.com/) | 
-| **Production Server (GCP)** | [http://34.57.1.36/:3000](http://34.57.1.36/:3000) | 
+| **Production Server (GCP)** | [http://34.57.1.36](http://34.57.1.36) | 
 | **Issue** | [https://github.com/your-username/your-repo-name/issues/1](https://github.com/your-username/your-repo-name/issues/1) | 
 | **Pull Request** | [https://github.com/your-username/your-repo-name/pull/1](https://github.com/your-username/your-repo-name/pull/1) | 
 | **Milestone** | [https://github.com/your-username/your-repo-name/milestone/1](https://github.com/your-username/your-repo-name/milestone/1) | 
