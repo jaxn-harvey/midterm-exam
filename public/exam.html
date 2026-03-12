@@ -5,6 +5,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Full Stack Tech Exam</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/css/bootstrap.min.css'>
 </head>
 
 <body>
@@ -21,10 +23,14 @@
     <form id="nameForm" method="post" action="api/get-name/">
       <label for="userName">Enter name:</label>
       <input id="userName" name="userName" placeholder="Enter a name (e.g., barry)" required>
-      <input type="submit" value="Search"> 
+      <input type="submit" onclick="loadMessage()" value="Search"> 
     </form>
     <p id="result"></p>
   </div>
 </body>
 
+
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.14.0/jquery-ui.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.min.js'></script>
 </html>
