@@ -14,7 +14,7 @@
 | **Pull Request** | [https://github.com/jaxn-harvey/midterm-exam/pull/1#issue-4066791986](https://github.com/jaxn-harvey/midterm-exam/pull/1#issue-4066791986) | 
 | **Milestone** | [https://github.com/jaxn-harvey/midterm-exam/milestone/1](https://github.com/jaxn-harvey/midterm-exam/milestone/1) | 
 | **Successful CI/CD Action** | [https://github.com/jaxn-harvey/midterm-exam/actions/runs/23019978734](+https://github.com/jaxn-harvey/midterm-exam/actions/runs/23019978734) | 
-| **ssh cmd to your gcp** | `ssh -i student-key bcumbie@your.static.external.ip` | 
+| **ssh cmd to your gcp** | `ssh -i student-key bcumbie@34.57.1.36 | 
 
 ---
 
