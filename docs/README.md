@@ -10,10 +10,10 @@
 | **GitHub Pages (docs/)** | [https://jaxn-harvey.github.io/midterm-exam/](https://jaxn-harvey.github.io/midterm-exam/) | 
 | **Dev Server (Render)** | [https://midterm-exam-n8uu.onrender.com/](https://midterm-exam-n8uu.onrender.com/) | 
 | **Production Server (GCP)** | [http://34.57.1.36](http://34.57.1.36) | 
-| **Issue** | [https://github.com/your-username/your-repo-name/issues/1](https://github.com/your-username/your-repo-name/issues/1) | 
-| **Pull Request** | [https://github.com/your-username/your-repo-name/pull/1](https://github.com/your-username/your-repo-name/pull/1) | 
-| **Milestone** | [https://github.com/your-username/your-repo-name/milestone/1](https://github.com/your-username/your-repo-name/milestone/1) | 
-| **Successful CI/CD Action** | [https://github.com/your-username/your-repo-name/actions/runs/your-run-id](https://github.com/your-username/your-repo-name/actions/runs/your-run-id) | 
+| **Issue** | [https://github.com/jaxn-harvey/midterm-exam/issues/2#issue-4066799640](https://github.com/jaxn-harvey/midterm-exam/issues/2#issue-4066799640) | 
+| **Pull Request** | [https://github.com/jaxn-harvey/midterm-exam/pull/1#issue-4066791986](https://github.com/jaxn-harvey/midterm-exam/pull/1#issue-4066791986) | 
+| **Milestone** | [https://github.com/jaxn-harvey/midterm-exam/milestone/1](https://github.com/jaxn-harvey/midterm-exam/milestone/1) | 
+| **Successful CI/CD Action** | [https://github.com/jaxn-harvey/midterm-exam/actions/runs/23019978734](+https://github.com/jaxn-harvey/midterm-exam/actions/runs/23019978734) | 
 | **ssh cmd to your gcp** | `ssh -i student-key bcumbie@your.static.external.ip` | 
 
 ---
