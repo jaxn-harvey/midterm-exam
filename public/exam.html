@@ -23,9 +23,27 @@
     <form id="nameForm" method="post" action="api/get-name/">
       <label for="userName">Enter name:</label>
       <input id="userName" name="userName" placeholder="Enter a name (e.g., barry)" required>
-      <input type="submit" value="Search"> 
+      <input type="submit" value="Search" onclick="findName()"> 
     </form>
-    <p id="result"></p>
+    <p id="result">
+      <script>
+
+    async function findName() {
+      try {
+        const response = await fetch('/api/get-name');
+        const messageData = await response.json();
+        
+        document.getElementById('userName').innerHTML = `
+          <h3>${messageData.message}</h3>
+          <p><strong>Assignment:</strong> ${messageData.name}</p>
+          <p><strong>Semester:</strong> ${messageData.emoji}</p>
+        `;
+      } catch (error) {
+        document.getElementById('userName').innerHTML = 'Error loading information';
+      }
+    }
+    </script>
+    </p>
   </div>
 </body>
 
